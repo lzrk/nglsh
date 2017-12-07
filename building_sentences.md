@@ -6,12 +6,12 @@
 
 ## Present Simple
 
-|     |     |
-| --- | --- |
-|+    | (I, you, we, they) + V|
-|+    | (He, she, it) + Vs    |
-|?    | (Do, does) + V ?      |
-|-    | (Do, does) + not + V  |
+| +/-/?|     |
+| ---  | --- |
+|+     | (I, you, we, they) + V|
+|+     | (He, she, it) + Vs    |
+|?     | (Do, does) + V ?      |
+|-     | (Do, does) + not + V  |
 
 ```
 + I love you
@@ -39,12 +39,42 @@
 
 ### (all) + (V**ed** || V**2**)
 
+[http://engblog.ru/past-simple](http://engblog.ru/past-simple)
+
+При использовании прошедшей формы *to be* (was/were)
+
+- was - ед. число
+- were - мн. число
+
+
+| +/-/?|     |
+| ---  | --- |
+|+     | (all) + (Ved, V2) |
+|?     | Did + V ?         |
+|-     | Did + not + V ?   |
+
+
 ```
-She sang in a bar
-I loved her
-We were here
-It was true
-Jerry lived in L.A
++ She sang in a bar
+? Did she sing in a bar?
+- She did not sing in a bar 
+
++ I loved her
+? Did I love her?
+- I did not love her
+
++ We were here
+? Were we here?
+- We were not here
+
++ It was true
+? Was it true?
+- It was not true
+
++ Jerry lived in LA
+? Did Jerry live in LA?
+- Jerry did not live in LA
+
 ```
 
 
