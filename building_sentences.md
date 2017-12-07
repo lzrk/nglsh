@@ -1,21 +1,38 @@
+# DO / DOES
+- (I, you, we, they) do
+- (He, She, It) does
+
 # Simple
 
 ## Present Simple
 
-### (I, you, we, they) + V
+|     |     |
+| --- | --- |
+|+    | (I, you, we, they) + V|
+|+    | (He, she, it) + Vs    |
+|?    | (Do, does) + V ?      |
+|-    | (Do, does) + not + V  |
 
 ```
-I love you
-We are here
-People never believe strangers
-```
++ I love you
+? Do I love you?
+- I do not love you
 
++ We are here
+? Are we here?
+- We are not here
 
-### (He, she, it) + V**s**
++ People never believe strangers
+? Do people believe strangers?
+- People do not believe strangers
 
-```
-She sings in a bar
-It is true
++ She sings in a bar
+? Does she sings in a bar?
+- She does not sings in a bar
+
++ It is true
+? Is it true?
+- It does not true
 ```
 
 ## Past Simple
@@ -33,7 +50,7 @@ Jerry lived in L.A
 
 ## Future Simple
 
-#### (all) will + V
+### (all) will + V
 
 ```
 I will work
@@ -119,7 +136,7 @@ Jack has never lived in N.Y. all his life
 
 ## Past Perfect
 
-#### (all) had + (V**ed** || V**3**)
+### (all) had + (V**ed** || V**3**)
 
 ```
 I had never done it before
