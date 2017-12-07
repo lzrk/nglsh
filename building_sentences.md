@@ -37,8 +37,6 @@
 
 ## Past Simple
 
-### (all) + (V**ed** || V**2**)
-
 [http://engblog.ru/past-simple](http://engblog.ru/past-simple)
 
 При использовании прошедшей формы *to be* (was/were)
@@ -82,8 +80,16 @@
 
 ### (all) will + V
 
+| +/-/?|     |
+| ---  | --- |
+|+     | (all) + will + V   |
+|?     | Will + (all) + V ? |
+|-     | Won't + V          |
+
 ```
-I will work
++ I will work
+? Will I work?
+- I won't (would not) work
 ```
 
 
