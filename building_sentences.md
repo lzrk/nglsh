@@ -6,6 +6,10 @@
 - was - ед. число
 - were - мн. число (в т.ч. you всегда)
 
+# HAVE / HAS
+- I, you, we, they - have
+- He, she, it - has
+
 # Simple
 
 ## Present Simple
@@ -156,35 +160,69 @@
 
 
 # Perfect
-**to have**
 
 ## Present Perfect
 
-### (I, you, we, they) have + (V**ed** || V**3**)
+| +/-/?|     |
+| ---  | --- |
+| +    | (have, has) + (Ved, V3)       |
+| ?    | inversion                     |
+| -    | (have, has) + not + (Ved, V3) |
 
 ```
-I have done it
-We have divorced
-People have forgotten the lesson the world taught them
-```
++ I have done it
+? Have I done it?
+- I have not done it
 
++ We have divorced
+? Have we divorces?
+- We have not divorced
 
-### (He, she, it) has (V**ed** || V**3**)
++ People have forgotten the lesson the world taught them
+? Have people forgotten the lesson the world taught them?
+- People have not forgotten the lesson the world taught them
 
-```
-She has never seen a white man
-Jack has never lived in N.Y. all his life
++ She has never seen a white man
+? Has she never seen a white man?
+- She has not seen a white man
 ```
 
 ## Past Perfect
 
-### (all) had + (V**ed** || V**3**)
+| +/-/?|     |
+| ---  | --- |
+| +    | had + (Ved, V3)       |
+| ?    | inversion             |
+| -    | had + not + (Ved, V3) |
 
 ```
-I had never done it before
-It had never been like this before we got married
-Paul hadn't had a slightest headache before he met a doctor
-They had lived in the mountains for ten years when the earthquake started
++ I had never done it before
+? Had I never done it before
+- I had not done it before
+
++ It had never been like this before we got married
+? Had it never been like this before we got married
+- It had not never been like this before we got married
+
++ They had lived in the mountains for ten years when the earthquake started
+? Had they lived in the mountains for ten years when the earthquake started?
+- They had not lived in the mountains for ten years when the earthquake started
+```
+
+## Future Perfect
+
+| +/-/?|     |
+| ---  | --- |
+| +    | will + have + (Ved, V3)  |
+| ?    | inversion                |
+| -    | won't + have + (Ved, V3) |
+
+TODO: shall/will
+
+```
++ I shall have played
+? Shall I have played?
+- I shall not have played
 ```
 
 
@@ -192,35 +230,51 @@ They had lived in the mountains for ten years when the earthquake started
 
 ## Present Perfect Progressive
 
-### (I, you, we, they) have been + V**ing**
+| +/-/?|     |
+| ---  | --- |
+| +    | (have, has) + been + Ving       |
+| ?    | inversion                       |
+| -    | (have, has) + not + been + Ving |
 
 ```
-I have been living in this town too long
-You have been lying to me all this time!  
-We have been speaking all night.
-```
++ I have been playing
+? Have I been playing?
+- I have not been playing
 
-### (He, she, it) has been + V**ing**
 
-```
-She has been looking for another man
-```
++ I have been living in this town too long
+? Have I been living in this town too long
+- I have not been living in this town too long
 
++ You have been lying to me all this time!
+? Have you been lying to me all this time?
+- You have not been lying to me all this time!
+```
 
 ## Past Perfect Progressive
 
-### (all) had been + V**ing**
+| +/-/?|     |
+| ---  | --- |
+| +    | had + been + Ving   |
+| ?    | inversion           |
+| -    | had not been + Ving |
 
 ```
-I had been waiting for an hour when she arrived
++ I had been waiting for an hour when she arrived
+? Had I been waiting for an hour when she arrived
+- I had not been waiting for an hour when she arrived
 ```
 
 ## Future Perfect Progressive
 
-### (I, we) (shall || will) have been V**ing**
+| +/-/?|     |
+| ---  | --- |
+| +    | will + have + been + Ving  |
+| ?    | inversion                  |
+| -    | won't + have + been + Ving |
 
 ```
-By 20 of May we’ll have been doing this work for three months
++ I shall have been playing
+? Shall I have been playing?
+- I shall not have been playing
 ```
-
-### (He, you, they) will have been V**ing**
