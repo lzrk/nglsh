@@ -2,6 +2,7 @@ IELTS
 4000 Academic Word List 
 
 A
+
 abandon: lacking restraint or control; feeling of extreme emotional intensity; unbounded enthusiasm
 abandonment: giving up completely; freedom from constraint
 abbreviation: shortening something by omitting parts of it
@@ -25,7 +26,6 @@ absorb: assimilate or incorporate; suck or drink up; occupy full attention
 absorption: process of absorbing nutrients into the body after digestion; state of mental
 concentration
 abstract: theoretical; not concrete; not applied or practical; difficult to understand
-3
 absurd: preposterous; ridiculously incongruous or unreasonable; foolish
 absurdity: quality of being absurd or inconsistent with obvious truth, reason, or sound judgment;
 logical contradiction
@@ -55,7 +55,6 @@ accord: settlement or compromise of conflicting opinions; written agreement betw
 account: narrative or record of events; reason given for a particular action or event
 accountant: one who maintains and audits business accounts
 accounting: system that provides quantitative information about finances
-4
 accrue: increase, accumulate, or come about as a result of growth; accumulate over time
 accumulate: pile up; collect; mount up; increase
 accumulation: increase by natural growth or addition; concentration
@@ -83,7 +82,6 @@ adaptation: modification; alteration or adjustment in structure or habits
 additional: further; extra; supplemental or added to
 additive: addition; supplement
 address: make a formal speech to; deal with or discuss; direct efforts or attention of
-5
 adequate: sufficient; enough to meet a purpose
 adhere: stick fast; stick to firmly; be compatible or in accordance with
 adhesive: glue; paste ; substance that unites or bonds surfaces together
@@ -113,7 +111,6 @@ adult: one who has attained maturity or legal age; fully grown
 advance: proceed; move forward; improve; moving forward
 advanced: improved; highly developed or complex; ahead of the times; progressive
 adventure: something happens without design; chance; hazard; risk; danger
-6
 adventurous: valiant; venturesome; inclined or willing to incur hazard or engage in adventures
 adversary: opponent in contest; someone who offers opposition
 adverse: in opposing direction; harmful or unfavorable; acting or serving to oppose
@@ -142,7 +139,6 @@ agitate: cause to move with violence or sudden force; upset; disturb
 agitation: anxiety; extreme emotional disturbance
 agony: extreme pain of mind or body; anguish; last struggle of life; death struggle
 agreeable: ready to consent or submit; acceptable
-7
 agreement: state of agreeing; harmony of opinion, statement, action, or character
 agriculture: practice of cultivating the land or raising stock
 aid: person or thing that promotes or helps in something done; helper; assistant
@@ -172,7 +168,6 @@ alloy: combine; mix; make less pure; lessen or moderate
 ally: confederate; partner; collaborator
 alone: solitary; by oneself
 along: by the length; in a line with the length; onward; forward; in company; together
-8
 alongside: along or by the side; side by side with
 alter: modify; cause to change; make different; convert
 alternate: happening or following in turns; succeeding each other continuously; substitute
@@ -201,7 +196,6 @@ amount: total of two or more quantities; aggregate; sum
 ample: more than enough in size or scope or capacity; fairly large
 amplification: addition of extra material or illustration or clarifying detail
 amplify: broaden or clarify by expanding; intensify; make larger or more powerful; increase
-9
 amuse: occupy or engage the attention of; lose in deep thought
 analogy: similarity in some respects; comparison based on similarity
 analysis: study; investigation; process of breaking down a substance into its constituent parts
@@ -230,7 +224,6 @@ antibiotic: of or relating to chemical substance that kills microorganisms and c
 anticipate: act in advance of; deal with ahead of time; predict
 anticipation: something expected; pleasurable expectation; wishing with confidence
 antique: any furniture old and valuable; out of fashion 
-10
 antonym: word of opposite meaning; counter term
 anxiety: concern something in state of painful uneasiness; state of restlessness and agitation
 anxious: eager; keen; worried; uneasy and apprehensive about an uncertain event or matter
@@ -259,7 +252,6 @@ appreciable: considerable; perceptible
 appreciate: be thankful for; increase in worth; be thoroughly conscious of
 appreciation: recognition; taste; judgment or opinion, especially a favorable one
 appreciative: having or showing a just or ready appreciation or perception
-11
 apprentice: works for an expert to learn a trade; beginner; learner
 approach: access; method
 appropriate: acquire; take possession of for one's own use; set apart for specific use
@@ -289,7 +281,6 @@ aristocracy: hereditary nobility; privileged class
 aristocrat: one of the aristocracy or people of rank in a community; one of a ruling class; a noble
 arithmetic: theory of numerical calculations
 armour: defensive covering, as of metal, wood, or leather, worn to protect the body against weapons
-12
 arms: weapons considered collectively; official symbols of a family
 arouse: excite; stimulate; awaken from or as if from sleep
 arrange: put in proper order; dispose in the manner intended, or best suited for the purpose
@@ -319,7 +310,6 @@ assess: estimate value; judge worth of something
 assessment: act of judging or assessing; amount determined as payable
 assign: appoint; allot; make over; point out authoritatively or exactly
 assignment: task given to students; job; distribution; appointment
-13
 assist: give help or support to, especially as a subordinate
 assistance: activity of contributing to fulfillment of a need or furtherance of an effort or purpose
 assistant: helper; person who assists or helps someone else
@@ -349,7 +339,6 @@ attach: fasten; annex; be in contact with
 attachment: a bond, as of affection or loyalty; fond regard; supplementary part; accessory
 attack: offensive move; expression of strong criticism; hostile comment
 attain: achieve or accomplish; gain
-14
 attempt: action of trying at something
 attend: be present at; go to; take care of; tend
 attendance: act of being present
@@ -379,7 +368,6 @@ automatic: mechanized; operating with minimal human intervention; independent of
 automation: act or process of converting the controlling of a machine or device to a more automatic
 system, such as computer or electronic controls
 automobile: self-propelled vehicle suitable for use on street or roadway
-15
 autonomous: self-governing; not controlled by others or by outside forces; independent
 autonomy: independence; self-government or the right of self-government; self-determination
 auxiliary: helper, additional or subsidiary
@@ -399,8 +387,10 @@ awkwardly: in an uncomfortable, nervous or embarrassed way
 axis: the center around which something rotates; pivot
 axle: pin or spindle on which a wheel revolves, or which revolves with a wheel; transverse bar or shaft
 connecting the opposite wheels of a car or carriage 
-16
+
+
 B
+
 baby-sitter: person engaged to care for children when the parents are not home
 bachelor: unmarried men; the first or lowest academic degree conferred by universities and colleges
 backbone: support; mainstay; vertebrate spine or spinal column
@@ -513,7 +503,6 @@ blessing: praying for divine protection; formal act of giving approval
 blink: shut eyes briefly; wink
 block: hinder; obstruct; indicate broadly without great detail; sketch
 bloom: flower; blossom; best time of youth; period of greatest prosperity or productivity
-20
 blossom: reproductive organ of plants, especially one having showy or colorful parts
 blot: spot or stain, as of ink on paper; blur; weak point or failing
 blunder: serious mistake typically caused by ignorance or confusion
@@ -542,7 +531,6 @@ bother: annoy; trouble; make agitated or nervous; fluster
 bounce: jolt; rebound after having struck an object or a surface
 bound: tied; held; committed; limit; constraint; leap; jump
 boundary: dividing line; border; frontier
-21
 bourgeois: middle class; selfishly materialistic; dully conventional
 bow: inclination of head, or bending of body for reverence, respect, civility, or submission; bending or
 rounded part of ship forward
@@ -572,7 +560,6 @@ brilliant: full of light; shining; bright; sharp and clear in tone
 brim: brink; edge
 brink: edge, margin, or border of a steep place verge
 brisk: marked by speed, liveliness, and vigor; energetic; swift; keen or sharp in speech or manner
-22
 brittle: easily broken; having little elasticity
 broadcast: message that is transmitted by radio or television; radio or television show
 broaden: widen; grow broad or broader
@@ -602,7 +589,6 @@ bullion: gold and silver in the form of bars
 bump: impact as from a collision; lump on the body caused by a blow
 bunch: clump; cluster; gathering
 bundle: packet; a package of things tied together; a large sum of money
-23
 burdensome: not easily borne; wearing; causing uneasiness or fatigue
 bureaucracy: over-regulated administrative system
 burial: grave or tomb; ritual placing of a corpse in a grave; concealing something under the ground
@@ -618,11 +604,10 @@ bygone: past; gone by
 bypass: channel used to conduct gas or liquid around another pipe or a fixture; conductor having low
 resistance in parallel
 by-product: product made during the manufacture of something else 
-Sưu tầm & tổng hợp : Admin Group IELTS SHARE
  
-24
-25
+
 C
+
 cab: taxi; one-horse vehicle for public hire
 cabin: small room on a ship or boat where people sleep
 cabinet: group of persons appointed by a head of state or a prime minister; hut; cottage; small house;
@@ -648,7 +633,6 @@ candidate: person who is considered for something; person who seeks or is nomina
 prize, or honor
 cane: any plant with long, hard, elastic stems; walking stick
 cannon: great gun; firearm for discharging heavy shot with great force
-26
 canon: law or rule; decision, regulation, code, or constitution made by ecclesiastical authority; books
 of the Bible officially accepted; a group of literary works
 canteen: vessel used by soldiers for carrying water, liquor, or other drink; snack bar or small
@@ -680,7 +664,6 @@ carrier: one that carries or conveys; messenger
 carrot: root of cultivated varieties of the plant, usually spindle-shaped, and of a reddish yellow color
 carry: convey or transport in any manner from one place to another; hold or support while moving;
 bear
-27
 cart: common name for various kinds of vehicles; two-wheeled vehicle; light business wagon
 carton: pasteboard for paper boxes; pasteboard box
 cartoon: design or study drawn of full size to serve as a model for transferring or copying; drawing
@@ -709,7 +692,6 @@ cavity: hole; cavern; hollow area within the body
 cease: stop; terminate; put an end to; discontinue
 celebrate: praise; assign great social importance to
 cell: any small compartment
-28
 cellar: room or rooms under a building, and usually below the surface of the ground
 cement: any substances used for making bodies adhere to each other; bond of union
 cemetery: place or ground set apart for the burial of the dead; graveyard
@@ -741,7 +723,6 @@ mark or trait
 characterize: distinguish; be characteristic of; be a distinctive trait or mark of
 charcoal: a stick of black carbon material used for drawing; a very dark gray color
 charge: set or ask for a certain price; load to capacity; fill; instruct or urge authoritatively; command
-29
 charity: activity or gift that benefits the public at large
 charm: power or quality of pleasing or delighting; attractiveness; item worn for its supposed magical
 benefit
@@ -771,7 +752,6 @@ circulate: move through a space, circuit or system, returning to the starting po
 circulation: spread or transmission of something to a wider group or area
 circumference: boundary line of a circle, figure, area, or object
 circumstance: situation; condition; detail accompanying or surrounding an event
-30
 circus: public entertainment of performances by acrobats, clowns, and trained animals
 cite: quote; adduce as an instance
 citizenship: status of a citizen with rights and duties
@@ -800,7 +780,6 @@ climate: weather condition; atmosphere; environment
 climax: upward movement; steady increase; the highest point; the greatest degree
 cling: hold fast or adhere to something; stick together and resist separation; remain emotionally
 clinic: healthcare facility for outpatient care
-31
 clip: small section of filmed or filed material
 clockwise: in the direction that the hands of a clock move
 closet: small room or apartment; room for privacy
@@ -831,7 +810,6 @@ collaboration: act of working together; act of cooperating with an enemy, especi
 one's own country
 collapse: breakdown; failure
 colleague: fellow worker; associate; co-worker
-32
 collective: common; assembled into or viewed as a whole
 collide: bump; hit; conflict
 collision: crash; conflict of opposed ideas or attitudes or goals
@@ -861,7 +839,6 @@ commit: do something that cannot be changed; cause to be admitted
 commitment: pledge, undertaking; act of binding yourself to a course of action
 committee: special group delegated to consider some matter
 commodity: goods; article of trade; advantage; benefit.
-33
 commonplace: ordinary; having no remarkable features
 commonsense: exhibiting native good judgment
 communicate: send information about; make known; impart; reveal clearly
@@ -890,7 +867,6 @@ compile: put together or compose from materials gathered from several sources
 complain: make a formal accusation; bring a formal charge
 complaint: expression of pain, dissatisfaction, or resentment; criticism
 complement: complete; consummate; make perfect
-34
 complex: complicated in structure; a whole structure, as a building, made up of interconnected or
 related structures
 complexity: complication
@@ -920,9 +896,6 @@ concede: admit; yield; give up physical control of another
 conceit: overly high self-esteem; feelings of excessive pride
 conceited: endowed with fancy or imagination; entertaining a flattering opinion of one's self; vain
 conceive: form or develop in the mind; devise; become pregnant with; begin or originate in a specific 
-Sưu tầm & tổng hợp : Admin Group IELTS SHARE
- 
-35
 way
 concentrate: bring to or direct toward a common center; unite more closely; gather into one body
 concept: something formed in the mind; thought or notion
@@ -952,9 +925,6 @@ confer: bestow; present; have a conference in order to talk something over
 conference: meeting for consultation or discussion; exchange of views
 confess: acknowledge; admit
 confession: public declaration of faith
-Sưu tầm & tổng hợp : Admin Group IELTS SHARE
- 
-36
 confide: disclose; reveal; tell in confidence
 confidence: feeling secure or certain about something
 confident: assured; having or marked by assurance
@@ -984,9 +954,6 @@ conquest: success in mastering something difficult
 conscience: motivation deriving logically from ethical or moral principles; source of moral or ethical
 judgment
 conscientious: diligent; responsible; reliable
-Sưu tầm & tổng hợp : Admin Group IELTS SHARE
- 
-37
 conscious: awake; alert
 consciousness: having knowledge of ; special awareness or sensitivity:
 consecutive: following one after another without interruption; sequential
@@ -1016,9 +983,6 @@ constituent: component or part; citizen, voter
 constitute: make up; form something
 constitution: law determining the fundamental political principles of a government; the act of forming
 something
-Sưu tầm & tổng hợp : Admin Group IELTS SHARE
- 
-38
 constraint: something that restricts or confines within prescribed bounds
 construct: form by assembling or combining parts; build; create
 construction: act of constructing or building something
@@ -1048,9 +1012,6 @@ contradiction: assertion of the contrary to what has been said or affirmed; deni
 statement or assertion
 contrary: relation of direct opposition; very opposed in nature or character or purpose
 contrast: act of distinguishing by comparing differences
-Sưu tầm & tổng hợp : Admin Group IELTS SHARE
- 
-39
 contribute: provide; bestow a quality on
 contribution: act of contributing; contribution; payment exacted for special purpose; impost or levy
 controversial: controvertible; disputable
@@ -1079,9 +1040,6 @@ cooperative: done with or working with others
 coordinate: bring order and organization to; harmonize
 coordination: regulation of diverse elements into an integrated and harmonious operation
 cordial: gracious; showing warm and friendliness
-Sưu tầm & tổng hợp : Admin Group IELTS SHARE
- 
-40
 core: basic, center, or most important part; essence
 cork: lightweight elastic outer bark, used especially for bottle closures, insulation, floats
 corn: single seed of certain plants, as wheat; grain; small, hard particle
@@ -1111,9 +1069,6 @@ countermand: cancel; revoke command or order; order or direct in opposition to; 
 counterpart: duplicate copy; analogue; one that closely resembles another
 countless: innumerable; infinite; too many to count
 couple: a male and female associated together; a pair who associate with one another
-Sưu tầm & tổng hợp : Admin Group IELTS SHARE
- 
-41
 court: enclosed space; courtyard; uncovered area shut in by the walls of a building
 courteous: exhibiting courtesy and politeness; showing regard or thought for others
 courtesy: polite behavior; act of civility or respect; consent or agreement in spite of fact
@@ -1142,9 +1097,6 @@ criminal: one who has committed a crime; one who is found guilty by verdict, con
 crimson: bloody
 cripple: person or animal that is partially disabled or unable to use a limb or limb
 crisis: dangerous situation; crucial or decisive point or situation; a turning point
-Sưu tầm & tổng hợp : Admin Group IELTS SHARE
- 
-42
 crisp: firm but easily broken or crumbled; brittle
 critical: urgently needed; absolutely necessary; essential; acute; crucial; decisive
 crook: bend, turn, or curve; curvature; flexure
@@ -1176,9 +1128,6 @@ cultivation: production of food by preparing the land to grow crops
 culture: all the knowledge and values shared by a society ; foster; raising of plants or animals
 cunning: knowing; skillful; artful; designing; deceitful
 cupboard: a small room or cabinet used for storage space
-Sưu tầm & tổng hợp : Admin Group IELTS SHARE
- 
-43
 curb: bend or curve; guide and manage, or restrain
 cure: medical or hygienic care; remedial treatment of disease; removal of disease or evil
 curiosity: desire to know or learn
@@ -1198,10 +1147,9 @@ customary: agreeing with or established by common usage; conventional; habitual
 customer: patron; one that buys goods or services
 customs: money collected under a tariff
 cycle: periodically repeated sequence of events; long period of time; entire round in a circle or a spire 
-Sưu tầm & tổng hợp : Admin Group IELTS SHARE
- 
-44
+
 D
+
 dagger: knife; short pointed weapon with sharp edges
 dainty: delicately beautiful or charming; exquisite; gratification or pleasure taken in anything
 dairy: place where milk is produced, kept, or converted into butter or cheese
@@ -1227,9 +1175,6 @@ debate: discussion; dispute; discussion involving opposing points
 debt: liability; obligation; money or goods or services owed by one person to another
 decade: a group or division of ten, especially a period of ten years
 decay: decompose; break sown; disintegration; rottenness; decline; worsen; decadence
-Sưu tầm & tổng hợp : Admin Group IELTS SHARE
- 
-45
 deceit: attempt or disposition to deceive or lead into error; any declaration, artifice, or practice, which
 misleads another, or causes him to believe what is false
 deceive: fool; cause to believe what is not true; mislead
@@ -1259,9 +1204,6 @@ defective: having a defect; faulty; imperfect; incomplete; lacking
 defence: act of defending against attack, danger, or injury
 defend: make or keep safe from danger, attack, or harm
 defer: delay till later; put off; hold back to a later time
-Sưu tầm & tổng hợp : Admin Group IELTS SHARE
- 
-46
 defiance: refusal to yield; readiness to contend or resist
 deficiency: scarcity; lack or shortage, especially of something essential to health
 deficient: inadequate; lacking an essential quality or element
@@ -1289,9 +1231,6 @@ delicious: extremely pleasing to the sense of taste; greatly pleasing or enterta
 delinquency: failure or omission of duty; fault; misdeed; offense or crime
 delinquent: failing in duty; offending by neglect of duty.
 deliver: set free from restraint; set at liberty; release; give or transfer
-Sưu tầm & tổng hợp : Admin Group IELTS SHARE
- 
-47
 delusion: false belief; mistaken or unfounded opinion
 democracy: a political system in which the supreme power lies in a body of citizens who can elect
 people to represent them
@@ -1322,9 +1261,6 @@ deposit: money given as a guarantee or security
 deposition: testimony under oath; act of depositing, especially laying down of matter by natural
 process
 depreciate: lessen price or value of; think or speak of as being of little worth; belittle
-Sưu tầm & tổng hợp : Admin Group IELTS SHARE
- 
-48
 depreciation: devaluation; decrease in price or value
 depress: lower in spirits; press down
 depressed: sad; gloomy; low in spirits; dejected
@@ -1354,9 +1290,6 @@ dessert: a dish served as the last course of meal
 destination: ultimate goal; place to which one is going or directed
 destine: decree or designate beforehand; fate
 destiny: event that will inevitably happen in the future
-Sưu tầm & tổng hợp : Admin Group IELTS SHARE
- 
-49
 destruction: havoc; event that completely destroys something
 destructive: devastating; ruinous
 detach: part; separate or disunite; disengage
@@ -1386,9 +1319,6 @@ the circumference
 dictate: prescribe; rule as a dictator
 dictator: one who dictates; one who prescribes rules and maxims authoritatively for the direction of
 others.
-Sưu tầm & tổng hợp : Admin Group IELTS SHARE
- 
-50
 diction: choice and use of words in speech or writing
 diet: nutritional plan; nourishment; a prescribed selection of foods
 differ: be or stand apart; disagree; be unlike; be distinguished
@@ -1418,9 +1348,6 @@ disadvantage: drawback; defect; hinder; unfavorable condition or circumstance
 disappointment: feeling of dissatisfaction
 disapproval: a feeling of disliking something or what someone is doing
 disaster: catastrophe; misfortune
-Sưu tầm & tổng hợp : Admin Group IELTS SHARE
- 
-51
 disastrous: extremely bad; terrible; dreadful
 disc: flat round plate; circular structure either in plants or animals
 discard: throw out something from one's hand; get rid of
@@ -1450,9 +1377,6 @@ dismay: destroy courage or resolution by exciting dread; cause to lose enthusias
 dismiss: stop considering; end employment or service of; discharge; refuse to accept or recognize
 disorder: neglect of order or system; irregularity; disturbance; sickness
 disparity: difference; condition or fact of being unequal, as in age, rank, or degree
-Sưu tầm & tổng hợp : Admin Group IELTS SHARE
- 
-52
 dispatch: act of sending off something; property of being prompt and efficient; message usually sent
 in haste
 dispel: scatter; drive away; cause to vanish
@@ -1482,9 +1406,6 @@ distortion: mistake of misrepresenting the facts
 distract: cause to turn away from original focus; pull in conflicting emotional directions; unsettle
 distraction: extreme mental or emotional disturbance; obsession; confusion of affairs; being drawn
 apart
-Sưu tầm & tổng hợp : Admin Group IELTS SHARE
- 
-53
 distress: discomfort; cause strain, anxiety, or suffering to
 distribute: hand out; disseminate; allocate
 distribution: act of distributing or spreading or apportioning
@@ -1514,9 +1435,6 @@ documentary: film or TV program presenting the facts about a person or event; of
 documents
 documentation: confirmation that some fact or statement is true
 dodge: avoid a blow by moving or shifting quickly aside; shifty or ingenious trick
-Sưu tầm & tổng hợp : Admin Group IELTS SHARE
- 
-54
 doll: small toy with human figure, normally for little child
 domain: field; territory over which rule or control is exercised; networked computers that share a
 common address
@@ -1546,9 +1464,6 @@ dramatize: represent something in a dramatic manner; add details to
 drastic: radical; taking effect violently or rapidly
 draw: cause to move continuously by force applied in advance of the thing moved; pull along; haul;
 drag
-Sưu tầm & tổng hợp : Admin Group IELTS SHARE
- 
-55
 drawback: disadvantage or inconvenience; shortcoming; refund or remittance, such as a discount on
 duties or taxes
 drawer: boxlike container in a piece of furniture, made so as to slide in and out
@@ -1578,14 +1493,11 @@ dwell: live as a resident; exist in a given place or state
 dweller: a person who inhabits a particular place
 dwelling: residence; place to live in; abode
 dye: substance used to color materials
-Sưu tầm & tổng hợp : Admin Group IELTS SHARE
- 
-56
 dynamic: energetic; vigorously active 
-Sưu tầm & tổng hợp : Admin Group IELTS SHARE
- 
-57
+
+
 E
+
 eager: avid; enthusiastic
 earnest: seriousness; reality; fixed determination; eagerness; intentness
 earthquake: quake from underground; disturbance that is extremely disruptive; temblor
@@ -1609,9 +1521,6 @@ editorial: of or pertaining to an editor; written or sanctioned by an editor
 education: act or process of educating; the result of educating
 effective: efficient; productive; producing a strong impression or response
 effectiveness: efficiency; quality of being effective
-Sưu tầm & tổng hợp : Admin Group IELTS SHARE
- 
-58
 efficiency: effectiveness; quality or property of being efficient; ratio of useful output to the total input
 in any system
 efficient: effective; acting directly to produce an effect; exhibiting a high ratio of output to input
@@ -1642,9 +1551,6 @@ elevation: altitude; height
 elevator: lifting device consisting of a platform or cage
 eliminate: eradicate; abolish; rule out
 elimination: act of removing or getting rid of something
-Sưu tầm & tổng hợp : Admin Group IELTS SHARE
- 
-59
 ellipsis: omission of words from text; mark or series of marks used in writing to indicate omission
 elliptical: rounded like an egg; in a shape reminding of an ellipse; oval
 eloquence: powerful and effective language; persuasive speech
@@ -1674,9 +1580,6 @@ emotion: feeling; mood; state of mental agitation or disturbance
 emotional: sentimental; passionate; excitable; easily moved
 emphasis: special attention or effort directed toward something; stress
 emphasize: stress; underscore; utter or pronounce with a particular stress of voice
-Sưu tầm & tổng hợp : Admin Group IELTS SHARE
- 
-60
 empirical: derived from experiment and observation rather than theory
 employ: engage the services of; put to work; apply
 employee: worker; person who works for another in return for financial or other compensation
@@ -1706,9 +1609,6 @@ enforce: put force upon; force; constrain; compel; put in motion or action by vi
 engage: obtain for services of; arrange for the use of; pledge or promise, especially to marry
 engagement: act of engaging, pledging, enlisting, occupying, or entering into contest; state of being
 in gear
-Sưu tầm & tổng hợp : Admin Group IELTS SHARE
- 
-61
 engrave: carve or cut into a block or surface, as used for printing; impress deeply as if by carving
 engraving: practice of incising a design onto a hard, flat surface, by cutting grooves into it
 engulf: absorb or swallow up as in a gulf; flow over or cover completely
@@ -1738,9 +1638,6 @@ entry: admission; entrance; item inserted in a written record
 enumerate: list each one; mention one by one
 envelop: enclose or encase completely with or as if with a covering
 environment: surroundings; totality of surrounding conditions
-Sưu tầm & tổng hợp : Admin Group IELTS SHARE
- 
-62
 envy: malice; ill will; discontent or uneasiness at another's excellence or good fortune, accompanied
 with hatred
 epidemic: outbreak of a contagious disease that spreads rapidly and widely; widely prevalent
@@ -1770,9 +1667,6 @@ escort: one who conducts someone as attendant; guard; protection, care, or safeg
 essay: effort made for performance of anything; short literary composition on a single subject
 essence: most essential or most vital part of some idea or experience
 essential: necessary; critical; vital; constituting or being part of the essence of something
-Sưu tầm & tổng hợp : Admin Group IELTS SHARE
- 
-63
 establish: set up or found; build
 establishment: act of establishing; ratifying or ordaining; settlement; arranged order or system,
 especially a legal code
@@ -1802,9 +1696,6 @@ exceedingly: in a very great degree; beyond what is usual; surpassingly
 excel: be superior; distinguish oneself
 excellent: surpassing others in some good quality or the sum of qualities; of great worth; eminent, in
 a good sense
-Sưu tầm & tổng hợp : Admin Group IELTS SHARE
- 
-64
 exception: instance that does not conform to a rule
 exceptional: extraordinary; unusual; well above average
 excess: amount or quantity beyond what is normal or sufficient; surplus
@@ -1833,9 +1724,6 @@ exhaustion: act of draining out or draining off; act of emptying completely of t
 being exhausted or emptied
 exhaustive: treating all parts or aspects without omission; comprehensive
 exhibit: show, make visible or apparent
-Sưu tầm & tổng hợp : Admin Group IELTS SHARE
- 
-65
 exhibition: exposition; presentation; large-scale public showing
 exile: force separation from one's native country
 exit: passage or way out; act of going away or out
@@ -1865,9 +1753,6 @@ export: sell or transfer abroad
 expose: set forth; set out to public view
 exposition: exhibition; part of a play that provides the background information; opening section of a
 fugue
-Sưu tầm & tổng hợp : Admin Group IELTS SHARE
- 
-66
 exposure: risk, particularly of being exposed to disease; unmasking; act of laying something open
 expressive: demonstrative; indicative
 expressly: particularly; specifically; in an explicit manner
@@ -1887,10 +1772,9 @@ extraordinary: exceptional; remarkable; beyond what is ordinary or usual
 extravagant: wandering beyond one's bounds; exceeding due bounds; wild; excessive; unrestrained
 extreme: outermost; utmost; farthest; most remote; at the widest limit
 eye: small hole or loop; good discernment; organ of vision or of light sensitivity 
-Sưu tầm & tổng hợp : Admin Group IELTS SHARE
- 
-67
+
 F
+
 fabric: cloth; stuff; artifact made by weaving or synthetic fibers; structure; framework
 fabricate: build; put together out of components or parts
 face: confront; encounter; be opposite
@@ -1915,9 +1799,6 @@ fanatic: person who is zealously enthusiastic for some cause; showing evidence o
 god or demon
 fancy: capricious notion; something many people believe that is false
 fantastic: excellent; extraordinary; strange in form, conception, or appearance
-Sưu tầm & tổng hợp : Admin Group IELTS SHARE
- 
-68
 fare: food and drink; diet; transportation charge; a paying passenger
 farewell: acknowledgment at parting; goodbye; act of departing or taking leave
 fascinate: cause to be interested or curious; captivate
@@ -1946,9 +1827,6 @@ terms; state of being together
 female: for or composed of women or girls
 ferocious: fierce; savage; wild; indicating cruelty
 ferry: shuttle; transport by boat or aircraft
-Sưu tầm & tổng hợp : Admin Group IELTS SHARE
- 
-69
 fertile: rich; fruitful; inventive; creative; intellectually productive
 fertilizer: any substance used to make soil more fertile
 fervent: extremely hot; sincerely or intensely felt
@@ -1978,9 +1856,6 @@ fishery: business or practice of catching fish; fishing; a place for catching fi
 a certain place
 fist: hand with the fingers doubled into the palm; closed hand
 fit: be the right size or shape; conform to some shape or size
-Sưu tầm & tổng hợp : Admin Group IELTS SHARE
- 
-70
 fitness: health; vigor; state or condition of being fit; suitability or appropriateness
 fitting: small accessory to a larger system; small detachable part for a machine or apparatus; act of
 trying on clothes
@@ -2011,9 +1886,6 @@ fling: throw with force or recklessness; throw or cast away; move in an abrupt
 float: drift along; make the surface of level or smooth; move lightly
 flock: group; herd; crowd; gather; crowd; throng
 flour: fine powdery foodstuff; soft, fine powder
-Sưu tầm & tổng hợp : Admin Group IELTS SHARE
- 
-71
 flourish: grow well; decorate with ornaments; be in a period of productivity
 fluctuate: rise and fall in or as if in waves; shift; vary irregularly
 fluctuation: a wave motion
@@ -2043,9 +1915,6 @@ forge: workplace where metal is worked by heating and hammering
 forgery: act of forging, especially the illegal production of something counterfeit
 forgive: give wholly; cease to feel resentment against; excuse for a fault or an offense; give up;
 resign
-Sưu tầm & tổng hợp : Admin Group IELTS SHARE
- 
-72
 formal: official; executed, carried out, or done in proper or regular form
 formality: quality or condition of being formal; something done just for form's sake
 format: pattern; design; set into a specific pattern
@@ -2074,9 +1943,6 @@ a mold
 foundation: basis on which something is grounded
 founder: person who establishes an organization, business
 fountain: spring of water issuing from the earth; artificially produced jet or stream of water
-Sưu tầm & tổng hợp : Admin Group IELTS SHARE
- 
-73
 fraction: segment; fragment; a small proportion of
 fracture: break into pieces; crack; destroy; violate or abuse
 fragile: easy to destroy, delicate, not strong
@@ -2107,9 +1973,6 @@ frustration: disappointment; failure; act of frustrating
 fuel: substance that can be consumed to produce energy
 fulfil: fill full; fill to the utmost capacity, as a vessel, a room
 full: filled to satisfaction with food or drink; containing as much or as many as is possible or normal
-Sưu tầm & tổng hợp : Admin Group IELTS SHARE
- 
-74
 fumble: feel or grope about; make awkward attempts to do or find something; play childishly; \turn
 over and over
 function: act of executing or performing any duty; assigned duty or activity
@@ -2131,10 +1994,9 @@ fuse: combine; blend; become plastic or fluid or liquefied from heat
 fuss: angry disturbance; excited state of agitation; needlessly nervous or useless activity; protest;
 quarrel
 fussy: easily upset; given to bouts of ill temper; full of superfluous details 
-Sưu tầm & tổng hợp : Admin Group IELTS SHARE
- 
-75
+
 G
+
 gale: very strong wind; gust of wind; emotional outburst as laughter or tears
 gallery: long usually narrow room ; covered corridor
 gallop: move or run rapidly or carelessly, as by a quadruped, particularly by a horse lifting alternately
@@ -2162,9 +2024,6 @@ generator: one that generates, especially converts mechanical energy into electr
 apparatus that generates vapor
 generosity: noble birth; quality of being noble; noble-mindedness; liberality in giving
 generous: more than adequate; willing to give and share unstintingly
-Sưu tầm & tổng hợp : Admin Group IELTS SHARE
- 
-76
 genius: exceptional creative ability; unusual mental ability; someone who is dazzlingly skilled in any
 field
 gentle: well-born; of a good family or respectable birth; mild; meek; bland; amiable; tender
@@ -2195,9 +2054,6 @@ gloomy: imperfectly illuminated; dusky; dim; clouded
 glorify: cause to seem more splendid; beautify
 glorious: having or deserving glory; famous; characterized by great beauty and splendor;
 magnificent; wonderful
-Sưu tầm & tổng hợp : Admin Group IELTS SHARE
- 
-77
 glossary: brief explanation of words, often placed at back of book
 glow: shine with an intense or white heat; give forth vivid light and heat; exhibit a strong, bright color
 glue: be fixed as if by sticky substance; join or attach with or as if sticky substance
@@ -2228,9 +2084,6 @@ grant: allow to have; give on the basis of merit; be willing to concede
 graph: chart; a drawing illustrating the relations
 grasp: grip; take hold of or seize firmly with or as if with the hand
 grasshopper: terrestrial plant-eating insect; young student in initial stages of training
-Sưu tầm & tổng hợp : Admin Group IELTS SHARE
- 
-78
 grateful: thankful; appreciative of benefits received
 gratify: give pleasure to; satisfy; indulge; make happy
 gratis: free, without charge; costing nothing
@@ -2260,9 +2113,6 @@ growl: utter a deep guttural sound, as angry dog; give forth an angry, grumbling
 guttural sound
 grudge: be unwilling or reluctant to give or admit; be envious; show discontent
 grumble: utter or emit low dull rumbling sounds
-Sưu tầm & tổng hợp : Admin Group IELTS SHARE
- 
-79
 guarantee: pledge that something will happen or that something is true
 guardian: one who guards, preserves, or secures; one who has, or is entitled to custody of person or
 property
@@ -2275,10 +2125,10 @@ gust: blast; outburst
 gutter: channel at the eaves of a roof for conveying away the rain; eaves channel; eaves trough
 gymnasium: place or building where athletic exercises are performed; a school for gymnastics
 gymnastics: sport that involves exercises intended to display strength and balance and agility 
-Sưu tầm & tổng hợp : Admin Group IELTS SHARE
- 
-80
+
+
 H
+
 habit: established disposition of the mind or character; distinctive dress, especially of a religious order
 haggard: wasted away; showing wearing effects of overwork or suffering
 haggle: argue about prices; bargain, as over the price of something
@@ -2303,9 +2153,6 @@ harbor: provide a refuge for; hide; give shelter to
 harden: become hard or harder
 hardware: mechanical, magnetic, electronic, and electrical components making up a computer
 system
-Sưu tầm & tổng hợp : Admin Group IELTS SHARE
- 
-81
 hardy: in robust and good health; able to survive under unfavorable conditions
 harmful: damaging; noxious; detrimental; dangerous
 harmless: unlikely to harm or disturb anyone
@@ -2335,9 +2182,6 @@ heave: cause to move upward or onward by a lifting effort; lift; raise; hoist; t
 heaven: expanse of space surrounding the earth; sky; place where the sun, moon, and stars appear
 hedge: thicket of bushes, usually thorn bushes
 hedgehog: small European insectivore, and other allied species of Asia and Africa, having the hair on 
-Sưu tầm & tổng hợp : Admin Group IELTS SHARE
- 
-82
 the upper part of its body mixed with prickles or spines
 heed: pay attention to; listen to and consider
 heel: back part of the human foot; lower end of a ship's mast
@@ -2367,9 +2211,6 @@ hinder: put at a disadvantage; tie up; hamper; prevent the progress
 hindrance: something that holds back or causes problems with something else; obstacle
 hinge: a joint that holds two parts together so that one can swing relative to the other
 hint: allusion; clue; brief or indirect suggestion
-Sưu tầm & tổng hợp : Admin Group IELTS SHARE
- 
-83
 hinterland: region; remote and undeveloped area
 hiss: prolonged sound like that letter s, made by forcing out the breath between the tongue and teeth
 historian: one who is an authority on history
@@ -2400,9 +2241,6 @@ hospitable: disposed to treat guests with warmth and generosity; receptive
 hospitality: act or practice of one who is hospitable; reception and entertainment of strangers or
 guests without reward
 host: great number; person entertaining guests
-Sưu tầm & tổng hợp : Admin Group IELTS SHARE
- 
-84
 hostage: prisoner who is held by one party to insure that another party will meet specified terms
 hostile: unfriendly; showing the disposition of an enemy
 hound: a variety of domestic dog, having large, drooping ears; side bar used to strengthen portions of
@@ -2432,17 +2270,14 @@ diatomic gas
 hygiene: cleanliness; sanitation
 hymn: song of praise or adoration, especially, a religious ode, a sacred lyric
 hypocrisy: act or practice of a hypocrite
-Sưu tầm & tổng hợp : Admin Group IELTS SHARE
- 
-85
 hypothesis: assumption; theory
 hypothetical: based on assumptions; supposed
 hysteria: behavior exhibiting excessive or uncontrollable emotion, such as fear or panic; mental
 disorder 
-Sưu tầm & tổng hợp : Admin Group IELTS SHARE
- 
-86
+
+
 I
+
 ideal: existing in idea or thought; conception; intellectual; mental; imaginary standard of excellence; fit
 for a model; faultless
 identical: duplicate; alike; being the exact same one
@@ -2468,9 +2303,6 @@ illusive: deceptive; misleading; based on or having the nature of an illusion
 illustrate: represent; demonstrate; depict; clarify, as by use of examples or comparisons
 illustration: picture; drawing; showing by example
 image: visual representation; representation of a person
-Sưu tầm & tổng hợp : Admin Group IELTS SHARE
- 
-87
 imaginary: having existence only in the imagination; fanciful; visionary
 imitate: copy the actions, appearance, mannerisms, or speech of; mimic; use or follow as a model
 imitation: emulation; copying the actions of someone else
@@ -2499,9 +2331,6 @@ impractical: unwise to implement or maintain in practice; theoretical
 impressive: making a strong or vivid impression; producing a strong effect
 imprisonment: confinement; putting someone in prison or in jail as lawful punishment
 impulse: act of applying force suddenly; an impelling force or strength
-Sưu tầm & tổng hợp : Admin Group IELTS SHARE
- 
-88
 inability: lack of ability, especially mental ability, to do something
 inaccessible: unreachable; not available; unattainable
 inadequate: not sufficient to meet a need; insufficient; poor
@@ -2530,9 +2359,6 @@ indent: nick; set in from margin; impress or stamp
 independent: not dependent; free; not subject to control by others; not relying on others
 index: anything which shows, indicates, manifests, or discloses; prologue indicating what follows;
 second digit
-Sưu tầm & tổng hợp : Admin Group IELTS SHARE
- 
-89
 indicate: point out; direct to a knowledge of
 indicative: suggestive; implying; serving to indicate
 indifference: unconcern; disinterest; lack of enthusiasm
@@ -2562,9 +2388,6 @@ infection: moral corruption or contamination; invasion of body which can lead to
 disease
 infectious: contagious; contaminating
 infer: deduce; conclude from evidence or premises; lead to as a consequence or conclusion
-Sưu tầm & tổng hợp : Admin Group IELTS SHARE
- 
-90
 inference: inferring by deduction or induction; truth or proposition drawn from another which is
 admitted or supposed to be true; conclusion; deduction
 inferior: poor; lower than a given reference point; low or lower in order, degree, or rank
@@ -2594,9 +2417,6 @@ initiative: serving to initiate; introductory step or movement; act which origin
 inject: put in; infuse ; force or drive fluid into something
 injure: do harm to; inflict damage; do injustice to
 injury: any physical damage to body caused by violence or accident or fracture
-Sưu tầm & tổng hợp : Admin Group IELTS SHARE
- 
-91
 injustice: unjust act; practice of being unjust or unfair
 inland: within the land; more or less remote from the ocean or from open water; interior
 innocent: naive; lacking sense or awareness; free from evil or guilt
@@ -2625,9 +2445,6 @@ installment: monthly payment; a part of a published serial
 instance: example that is cited to prove a contention or illustrate a point; case or occurrence
 instinct: inborn pattern of behavior ; nature
 instinctive: unthinking; prompted by instinct; spontaneous
-Sưu tầm & tổng hợp : Admin Group IELTS SHARE
- 
-92
 institute: advance or set forth in court; association organized to promote art or science or education
 institution: institute; organization; introducing something new
 instruct: teach; make aware of
@@ -2658,9 +2475,6 @@ intense: extreme; acute; in an extreme degree
 intensive: thorough; concentrated; tending to give force or emphasis
 intent: something that is intended; aim or purpose
 intention: motive; with respect to marriage; aim that guides action
-Sưu tầm & tổng hợp : Admin Group IELTS SHARE
- 
-93
 interact: interplay; act together or towards others or with
 interaction: communication; a mutual or reciprocal action; interacting
 interest: attention; curiosity; dividend; yield
@@ -2690,9 +2504,6 @@ invest: put clothe on, as with office or authority; place in possession of rank,
 endow; lay out money or capital in business
 investigate: explore; observe or inquire into in detail; examine systematically
 investigation: detailed inquiry or systematic examination; inquiry
-Sưu tầm & tổng hợp : Admin Group IELTS SHARE
- 
-94
 invisible: incapable of being seen; impossible or nearly impossible to see
 invoice: bill; commercial document issued by seller to buyer indicating the products, quantities and
 prices
@@ -2711,10 +2522,10 @@ isolation: separation; detachment; quality or condition of being isolated
 issue: subject; topic; problem; edition; publication; release; publish
 item: a whole individual unit; a distinct part that can be specified separately in a group
 ivory: teeth of elephant 
-Sưu tầm & tổng hợp : Admin Group IELTS SHARE
- 
-95
+
+
 J
+
 jail: building for confinement of persons held in lawful custody
 jam: crush or bruise; get stuck; press tightly together
 jar: pitcher; vase; small, cylindrical container for food, normally made of glass or clay
@@ -2739,18 +2550,15 @@ junction: connection; joint; intersection; crossing
 jungle: land densely overgrown with tropical vegetation; dense, confused mass
 junior: less advanced in age than another; younger; lower in standing or in rank
 jury: committee appointed to judge a case
-Sưu tầm & tổng hợp : Admin Group IELTS SHARE
- 
-96
 justice: quality of being just; practical conformity to human or divine law; equity; uprightness
 justifiable: capable of being justified, or shown to be just
 justification: good or just reason; condition or fact of being justified
 justify: adjust the spaces between words; show to be reasonable; explain, clear away
 juvenile: youth; adolescent; not fully grown or developed 
-Sưu tầm & tổng hợp : Admin Group IELTS SHARE
- 
-97
+
+
 K
+
 kangaroo: animal that having large powerful hind legs and a long thick tail
 keen: acute; incisive; sharp ; express grief verbally
 kernel: central or vital part; most material and central part; grain or seed as of corn
@@ -2768,10 +2576,10 @@ knit: contract into wrinkles; grow together; form into fabric by intertwining
 knob: hard protuberance; hard swelling or rising; bunch; lump
 knot: fastening together of one or more threads, cords, ropes; lump or loop formed in thread;
 ornamental tie
-Sưu tầm & tổng hợp : Admin Group IELTS SHARE
- 
-98
+
+
 L
+
 label: paper affixed to anything by inscription; slip of ribbon, parchment; writing annexed by way of
 addition
 laborer: worker; someone who works with their hands
@@ -2797,9 +2605,6 @@ lateral: coming from side; situated at or extending to the side
 latitude: freedom from normal restraints; angular distance north or south of the earth's equator
 launch: begin; originate; initiate; send off; take off
 laundry: washing; workplace where clothes are washed and ironed
-Sưu tầm & tổng hợp : Admin Group IELTS SHARE
- 
-99
 lawn: landscape; grassland, usually tended or mowed; meadow
 lay: put into a certain place; cause to lie down; spread over a surface
 layer: tier; a relatively thin sheet like expanse or region lying over or under another
@@ -2828,9 +2633,6 @@ liable: bound or obliged in law or equity
 liberal: open-minded; tolerant; broad-mindedness; having political views favoring reform and
 progress
 liberate: set free, as from oppression, confinement, or foreign control; discharge; release
-Sưu tầm & tổng hợp : Admin Group IELTS SHARE
- 
-100
 liberty: state of free person; exemption from subjection to the will of another; freedom
 license: official or legal permission to do or own a specified thing
 lick: draw or pass the tongue over; pass or lap quickly and rapidly; beat thoroughly in a competition or
@@ -2861,9 +2663,6 @@ literal: according to the letter or verbal expression; exactly as stated
 literally: with meaning; word for word; letter by letter
 literary: knowledgeable about literature; of or relating to or characteristic of literature
 literate: educated; schooled; one who can read and write
-Sưu tầm & tổng hợp : Admin Group IELTS SHARE
- 
-101
 literature: imaginative or creative writing, especially of recognized artistic value; art or occupation of a
 literary writer
 litter: make untidy by discarding rubbish carelessly; scatter about
@@ -2894,9 +2693,6 @@ logical: reasonable; based on known statements or events or conditions
 longevity: long life; great duration of life; long duration or continuance, as in an occupation
 longitude: an imaginary great circle on the surface of the earth passing through the north and south
 poles
-Sưu tầm & tổng hợp : Admin Group IELTS SHARE
- 
-102
 loom: appear or take shape, usually in enlarged or distorted form
 loop: circle; ring; move in loops; make a loop in; join with a loop
 loose: unbound; untied; not attached, fastened, fixed, or confined
@@ -2914,10 +2710,10 @@ lump: a small mass of matter of irregular shape; irregular or shapeless mass; sm
 lunar: pertaining to the moon; affecting the moon
 luxurious: rich and superior in quality; lavish
 luxury: something that is an indulgence rather than necessity; excessively expensive 
-Sưu tầm & tổng hợp : Admin Group IELTS SHARE
- 
-103
+
+
 M
+
 mackintosh: waterproof long coat made of rubberized cloth
 magic: any art that invokes supernatural powers
 magician: one who performs magic tricks to amuse an audience; sorcerer; wizard
@@ -2942,9 +2738,6 @@ malicious: deliberately harmful; spiteful; proceeding from extreme hatred
 manifest: clearly apparent to understanding; obvious
 manifestation: revelation; indication of the existence, reality, or presence of something
 manifesto: public declaration of principles; statement of policy
-Sưu tầm & tổng hợp : Admin Group IELTS SHARE
- 
-104
 manipulate: operate with one's hands; control or play upon people, forces artfully
 mansion: dwelling-house of the better class; a large or stately residence
 manual: guide book; hand-operated
@@ -2975,9 +2768,6 @@ piece of timber, or spar, set upright in a boat or vessel, to sustain the sails,
 masterpiece: chief excellence or great talent; outstanding work of art or craft
 match: something that resembles or harmonizes with
 mate: a fellow member of a team
-Sưu tầm & tổng hợp : Admin Group IELTS SHARE
- 
-105
 material: of, relating to, or composed of matter; concerned with physical, not from intellectual or
 spiritual
 materialism: philosophical theory that matter is the only reality
@@ -3009,9 +2799,6 @@ melon: juicy fruit of certain cucurbitaceous plants, as the muskmelon, watermelo
 produces the fruit juicy
 melt: changed from a solid to a liquid state especially by the application of heat
 memo: short note; memorandum; written proposal or reminder
-Sưu tầm & tổng hợp : Admin Group IELTS SHARE
- 
-106
 memorial: monument; short note or abstract, intended for registry, exhibiting the particulars of a deed
 memorize: commemorate; commit to memory; learn by heart
 memory: faculty of mind by which it retains the knowledge of previous thoughts, impressions, or
@@ -3042,9 +2829,6 @@ meticulous: excessively careful; marked by extreme care in treatment of details
 metric: relating to measurement; involving, or proceeding by measurement.
 metropolitan: city center; one who lives in a city center
 microscope: magnifier of the image of small objects
-Sưu tầm & tổng hợp : Admin Group IELTS SHARE
- 
-107
 microwave: a short electromagnetic wave; cook or heat in a microwave oven
 mighty: having or showing great strength or force or intensity
 migrant: habitually moving from place to place especially in search of seasonal work; wandering
@@ -3075,9 +2859,6 @@ miscarriage: failure of administration or management; failure to attain a desire
 destination
 mischief: behavior that causes discomfiture or annoyance in another; tendency to play pranks or
 cause embarrassment
-Sưu tầm & tổng hợp : Admin Group IELTS SHARE
- 
-108
 miserable: very unhappy; full of misery; wretched
 misery: great unhappiness; extreme pain of body or mind
 misfortune: bad fortune or ill luck; bad luck
@@ -3107,9 +2888,6 @@ molecular: of molecules; relating to simple or basic structure or form
 molecule: the smallest particle of substance, having all the properties of that substance
 momentary: done in a moment; continuing only a moment; lasting a very short time
 momentous: very important; of outstanding significance or consequence
-Sưu tầm & tổng hợp : Admin Group IELTS SHARE
- 
-109
 monarch: king; sole and absolute ruler; sovereign, such as a king or empress
 monastery: house of religious retirement, or of seclusion from ordinary temporal concerns, especially
 for monks
@@ -3139,9 +2917,6 @@ motivation: incentive; psychological feature that arouses an organism to action 
 motive: emotion, desire, physiological need; that which gives purpose and direction to behavior
 motto: short, suggestive expression of a guiding principle; maxim
 mould: crumbling, soft, friable earth; soil
-Sưu tầm & tổng hợp : Admin Group IELTS SHARE
- 
-110
 mount: go up or advance; fix onto a backing; put up or launch
 mourn: express or to feel grief or sorrow; grieve; be sorrowful
 mournful: feeling or expressing sorrow or grief; sad; gloomy
@@ -3169,10 +2944,10 @@ myriad: of very large or indefinite number; of ten thousand
 mysterious: beyond ordinary understanding
 myth: legend; fable; a traditional story accepted as history
 mythology: study of myths; collection of myth 
-Sưu tầm & tổng hợp : Admin Group IELTS SHARE
- 
-111
+
+
 N
+
 naked: bare and pure; completely unclothed
 namely: by name; by particular mention; expressly; that is to say
 nap: a period of time spent sleeping
@@ -3197,9 +2972,6 @@ negligible: so small, trifling, or unimportant that it may be easily disregarded
 negotiable: capable of being negotiated; transferable by assignment or endorsement to another
 person
 negotiation: discussion intended to produce an agreement
-Sưu tầm & tổng hợp : Admin Group IELTS SHARE
- 
-112
 nervous: agitated; anxious
 network: any system of lines or channels crossing like the fabric of a net; complex, interconnected
 group or system
@@ -3230,9 +3002,6 @@ notwithstanding: nevertheless; in spite of
 nought: nonexistence; nothingness; zero
 nourish: provide with nourishment; provide with food or other substances necessary for life and
 growth
-Sưu tầm & tổng hợp : Admin Group IELTS SHARE
- 
-113
 nourishment: a source of materials to nourish the body
 novel: previously unknown; strikingly new, unusual, or different; young
 novelty: quality of being novel; newness; something new and unusual
@@ -3249,10 +3018,10 @@ and not letters
 numerous: many; various; amounting to a large indefinite number
 nursery: room for baby; area in a household set apart for the use of children
 nylon: any of a family of high-strength, resilient synthetic polymers
-Sưu tầm & tổng hợp : Admin Group IELTS SHARE
- 
-114
+
+
 O
+
 oak: any tree or shrub of the genus Quercus; durable wood of any of these trees or shrubs
 oar: long, thin, usually wooden pole with a blade at one end, used to row or steer a boat
 oath: solemn promise; commitment to tell the truth
@@ -3277,9 +3046,6 @@ obtainable: available; capable of being obtained
 obvious: exposed; easily discovered; plain
 occasion: significant event that occurs at a critical time; opportunity to do something; event or
 happening
-Sưu tầm & tổng hợp : Admin Group IELTS SHARE
- 
-115
 occasional: random; occurring from time to time; infrequent
 occasionally: now and then; from time to time; infrequently; irregularly
 occupation: act of occupying or taking possession; control of a country by military forces of a foreign
@@ -3310,9 +3076,6 @@ favorable estimation
 opponent: contestant; someone who offers opposition ; adverse; hostile; opposing
 opportune: timely; just in time; suited or right for a particular purpose
 opportunity: favorable or advantageous circumstance; chance for progress or advancement
-Sưu tầm & tổng hợp : Admin Group IELTS SHARE
- 
-116
 oppose: place in front of, or over against; set opposite; exhibit; confront; resist; withstand
 opposite: two words that express opposing concepts; contrariwise; directly facing each other
 opposition: condition of being in conflict; act of opposing something
@@ -3341,9 +3104,6 @@ origin: the first existence or beginning of anything; birth; fountain
 original: not second hand; not copied or translated from something else
 originality: novelty; creativity; capacity to act or think independently
 originate: initiate; invent; bring into being; create
-Sưu tầm & tổng hợp : Admin Group IELTS SHARE
- 
-117
 ornament: decoration; something used to beautify
 ornamental: decorative; any plant grown for its beauty or ornamental value
 ounce: unit of weight equal to one sixteenth of a pound
@@ -3372,9 +3132,6 @@ overestimate: make too high an estimate of
 overflow: flow over; cover with, or as with, water or other fluid; spread over; flow over the brim of
 overhear: hear more of anything than was intended to be heard; hear again
 overlap: representation of common ground between two things; extend over and cover a part of
-Sưu tầm & tổng hợp : Admin Group IELTS SHARE
- 
-118
 overlapping: covering with a design in which one element covers a part of another
 overload: place too much a load on
 overlook: ignore; disregard; fail to notice ; watch over
@@ -3396,10 +3153,10 @@ binary
 oxygen: a nonmetallic bivalent element that is normally a colorless odorless tasteless nonflammable
 diatomic gas
 oyster: marine mollusks having a rough irregular shell 
-Sưu tầm & tổng hợp : Admin Group IELTS SHARE
- 
-119
+
+
 P
+
 pace: single movement from one foot to the other in walking; slow gait; step
 pack: pact or bundle made up and prepared to be carried; a number of similar things; a full set of
 playing cards
@@ -3424,9 +3181,6 @@ pants: trousers; underwear; garment extending from waist to knee or ankle
 par: amount or level considered to be average; standard; equality of status, level, or value
 parachute: rescue equipment consisting of a device that fills with air and retards your fall
 parade: march in a procession; ceremonial procession; visible display
-Sưu tầm & tổng hợp : Admin Group IELTS SHARE
- 
-120
 paradise: garden of Eden; any place of complete delight and peace
 paragraph: distinct division of written or printed matter that begins on a new, usually indented line
 parallel: make or place something to another's side; of or relating to multiple operations at same time;
@@ -3456,9 +3210,6 @@ pathetic: causing sadness, compassion, or pity
 patriot: one who loves and defends his or her country
 patriotic: inspired by love for one's country
 patriotism: love of country; devotion to welfare of one's country; virtues and actions of patriot
-Sưu tầm & tổng hợp : Admin Group IELTS SHARE
- 
-121
 patrol: activity of going on an area at regular intervals for security purposes
 patron: benefactor; regular customer
 patronage: sponsorship; support; state of being a sponsor
@@ -3488,9 +3239,6 @@ perception: understanding; feeling; effect or product of perceiving
 perch: a place high up; an elevated place serving as a seat
 perfect: completed; not defective nor redundant; having all the properties or qualities; without flaw,
 fault, or blemish; without error
-Sưu tầm & tổng hợp : Admin Group IELTS SHARE
- 
-122
 perfection: flawlessness; excellence; state of being without flaw or defect
 perform: carry through; bring to completion; achieve; accomplish; execute
 performance: act of performing; dramatic or musical entertainment; process or manner
@@ -3520,9 +3268,6 @@ persist: continue; insist; persevere
 persistence: endurance; tenacity; state or quality of being persistent; persistency
 personal: particular to a given individual; concerning or affecting a particular person
 personality: complex of all the attributes of a person; totality of qualities and traits of a person
-Sưu tầm & tổng hợp : Admin Group IELTS SHARE
- 
-123
 personnel: group of people willing to obey orders
 perspective: appearance of things; view, outlook, or vista
 persuade: advise; counsel; urge the acceptance or practice of; convince
@@ -3553,9 +3298,6 @@ pick: remove something with the fingers, or with the teeth; separate as choice o
 picnic: eat in the open air; have informal meal eaten outside or on an excursion
 picturesque: scenic; striking or interesting in an unusual way
 pier: landing place; platform built out from shore into water and supported by piles; provides access 
-Sưu tầm & tổng hợp : Admin Group IELTS SHARE
- 
-124
 to ships
 pigment: substance used as coloring; dry coloring matter
 pile: large timber or post; heap; hair; fiber of wool, cotton; head of an arrow or spear
@@ -3585,9 +3327,6 @@ plain: without elevations or depressions; flat; smooth; not rich; simple; withou
 plane: flat or level surface; level of development, existence, or achievement
 planet: celestial bodies that revolve around the sun
 plantation: farm; an area under cultivation; a group of cultivated trees or plants
-Sưu tầm & tổng hợp : Admin Group IELTS SHARE
- 
-125
 plaster: cover conspicuously, as by pasting something on; adhesive tape used in dressing wounds; a
 hardened surface as on a wall or ceiling
 plastic: capable of being molded; capable of being shaped or formed; easily influenced
@@ -3619,9 +3358,6 @@ ply: bend; lay on closely, or in folds; work upon steadily, or with repeated act
 pneumonia: inflammation of the lungs
 poke: push at, as with a finger or an arm; search or look curiously; proceed in slow or lazy manner;
 thrust forward
-Sưu tầm & tổng hợp : Admin Group IELTS SHARE
- 
-126
 polar: pertaining to one of the poles of the earth; of the poles
 pole: a long rod; one of two divergent or mutually exclusive opinions
 policy: settled method of government to administer; system of public or official administration
@@ -3651,9 +3387,6 @@ positive: involving advantage or good ; greater than zero; very sure; confident
 possess: occupy in person; hold or actually have in one's own keeping; have and hold; have the legal
 title to
 possession: act of having and controlling property; belongings
-Sưu tầm & tổng hợp : Admin Group IELTS SHARE
- 
-127
 post: display announcement in a place of public view; publish on a list
 postage: token that postal fee has been paid; charge for mailing something
 postal: of or relating to the system for delivering mail
@@ -3683,9 +3416,6 @@ preceding act or speech
 precedent: act or instance that may be used as example in subsequent similar cases
 preceding: ahead; prior to
 precious: of high worth or cost
-Sưu tầm & tổng hợp : Admin Group IELTS SHARE
- 
-128
 precise: exact; clearly expressed; accurate or correct
 precision: exactness; accuracy; number of significant digits to which a value has been reliably
 measured
@@ -3716,9 +3446,6 @@ preserve: uphold; retain; maintain in safety from injury, peril, or harm
 preside: be set, or to sit, in the place of authority; to occupy the place of president, chairman,
 moderator, director; direct, control, and regulate, as chief officer
 press: machines or devices that apply pressure or print; collecting and publishing of news; journalism 
-Sưu tầm & tổng hợp : Admin Group IELTS SHARE
- 
-129
 in general
 pressure: stress; tension; condition of being pressed
 prestige: impression produced by achievements or reputation; recognized distinction or importance
@@ -3747,9 +3474,6 @@ problematic: open to doubt; unsettled; questionable; difficult to solve
 procedure: act or manner of moving forward; act performed; steps taken in an action
 proceed: follow a certain course; move ahead; travel onward
 proceeding: a sequence of steps by which legal judgments are invoked
-Sưu tầm & tổng hợp : Admin Group IELTS SHARE
- 
-130
 proceeds: profit, money made from selling something; income arising from land or other property
 process: act of proceeding; continued forward movement; a series of actions
 procession: act of proceeding, moving on, advancing, or issuing; regular, orderly, or ceremonious
@@ -3780,9 +3504,6 @@ prolong: make longer; draw out; lengthen
 prominence: relative importance; property of being prominent; a standing out from the surface of
 something
 prominent: conspicuous; immediately noticeable; sticking out; widely known
-Sưu tầm & tổng hợp : Admin Group IELTS SHARE
- 
-131
 promise: declaration assuring that one will or will not do something; indication of something favorable
 to come
 promising: likely to develop in a desirable manner; affording hope
@@ -3814,9 +3535,6 @@ in
 prosecutor: one who carries out legal action, especially criminal proceedings; one who prosecutes
 any purpose, plan, or business
 prospect: possibility of future success; belief about future
-Sưu tầm & tổng hợp : Admin Group IELTS SHARE
- 
-132
 prosperity: good fortune; financial success; physical well-being
 prosperous: successful; thriving; having or characterized by financial success or good fortune
 protein: any of a large group of nitrogenous organic compounds that are essential constituents of
@@ -3846,9 +3564,6 @@ punctual: consisting in a point; limited to a point; unexpended; precise
 pupil: a learner who is enrolled in an educational institution
 puppy: young dog; pup; doll; puppet
 purchase: act or an instance of buying; something bought
-Sưu tầm & tổng hợp : Admin Group IELTS SHARE
- 
-133
 purify: refine; make pure or free from sin or guilt; become clean
 purity: condition of being pure; freedom from foreign admixture or deleterious matter; cleanness
 purple: chromatic color between red and blue; belonging to or befitting a supreme ruler
@@ -3858,10 +3573,10 @@ pursuit: follow after; follow with a view to obtain; endeavor to attain
 puzzle: difficult question or problem
 pyramid: a massive memorial with a square base and four triangular sides; built as royal tombs in
 ancient Egypt 
-Sưu tầm & tổng hợp : Admin Group IELTS SHARE
- 
-134
+
+
 Q
+
 qualification: an attribute that must be met
 qualified: restricted; having the appropriate qualifications for an office, position, or task
 qualify: make such as is required; give added or requisite qualities to; make legally capable
@@ -3881,10 +3596,10 @@ quiver: shake with slight, rapid, tremulous movement
 quota: limitation on imports; ration; prescribed number
 quotation: passage or expression that is quoted or cited; practice of quoting from books
 quote: cite or repeat a passage from; repeat or copy the words of another
-Sưu tầm & tổng hợp : Admin Group IELTS SHARE
- 
-135
+
+
 R
+
 rack: framework for holding objects
 racket: thin strip of wood, having the ends brought together, forming elliptical hoop, across which a
 network of catgut or cord is stretched; broad wooden shoe or pattern for a man or horse, to enable
@@ -3909,9 +3624,6 @@ rapture: seizing by violence; hurrying along; rapidity with violence; state or c
 carried away from one's self by agreeable excitement
 rare: scarce; infrequently occurring; uncommon
 rarely: not often; in an unusual degree; exceptionally
-Sưu tầm & tổng hợp : Admin Group IELTS SHARE
- 
-136
 rat: any of various long tailed rodents, similar to but larger than mouse
 ratify: approve formally; confirm; verify
 ratio: relation which one quantity or magnitude has to another of the same kind; rate; proportion
@@ -3940,9 +3652,6 @@ recede: move back; retreat; withdraw a claim or pretension
 receipt: act of receiving; acknowledgment of goods delivered or money paid
 reception: act of receiving; manner in which something is greeted
 receptionist: secretary whose main duty is to answer the telephone and receive visitors
-Sưu tầm & tổng hợp : Admin Group IELTS SHARE
- 
-137
 recession: withdrawal; retreat; time of low economic activity
 recipe: medical prescription; a set of directions for making or preparing something, especially food
 recipient: receiver; one that receives or is receptive
@@ -3973,9 +3682,6 @@ recur: reappear; happen or occur again
 recurrence: act of recurring, or state of being recurrent; return
 redeem: purchase back; regain possession of by payment; ransom or rescue from captivity; pay
 penalty; make amends for
-Sưu tầm & tổng hợp : Admin Group IELTS SHARE
- 
-138
 reed: tall woody perennial grasses with hollow slender stems
 reef: chain or range of rocks lying at or near the surface of the water
 reel: frame with radial arms, or a kind of spool, turning on axis, on which threads or lines are wound
@@ -4004,9 +3710,6 @@ time, amount, degree, or rate of
 regulation: act of controlling or directing according to rule; prescribed by or according to rule
 rehearsal: act of rehearsing; exercise or practice to prepare for a public performance
 rehearse: practice; drill; engage in preparation for a public performance
-Sưu tầm & tổng hợp : Admin Group IELTS SHARE
- 
-139
 reign: sovereignty; rule; dominance or widespread influence
 reimburse: pay back for some expense incurred
 rein: strap or rope attached to the bridle or bit, used to control a horse or other animal; instrument or
@@ -4037,9 +3740,6 @@ reluctance: state of being reluctant; unwillingness; hesitancy in taking some ac
 reluctant: not wanting to take some action; averse
 rely: rest with confidence; have confidence; depend
 remainder: remnant; something left after other parts have been taken away
-Sưu tầm & tổng hợp : Admin Group IELTS SHARE
- 
-140
 remains: all that is left after other parts have been taken away, used up, or destroyed; corpse;
 ancient ruins or fossils
 remark: expression, in speech or writing, of something remarked or noticed
@@ -4069,9 +3769,6 @@ replacement: act of replacing; substitution; person or thing that takes the plac
 replenish: fill or make complete again; add a new stock or supply to
 represent: stand for; describe or present; play a role or part
 representation: act of representing; standing in for someone or some group and speaking with 
-Sưu tầm & tổng hợp : Admin Group IELTS SHARE
- 
-141
 authority in their behalf
 representative: one that represents anything; that which exhibits a likeness or similitude; agent
 reproach: express disapproval or disappointment; bring shame upon; disgrace
@@ -4101,9 +3798,6 @@ reside: dwell; live in a place permanently or for an extended period
 residence: official house; large house; act of dwelling in a place
 resident: one who resides in a place permanently or for an extended period; dweller
 residual: remaining as a residue; surplus
-Sưu tầm & tổng hợp : Admin Group IELTS SHARE
- 
-142
 resign: sign back; return by a formal act; yield to another; abandon
 resignation: act of resigning or giving up, as a claim, possession, or office; surrender
 resist: stand up or offer resistance; refuse to comply; withstand the force of something
@@ -4133,9 +3827,6 @@ resume: give a summary; return to a previous location or condition
 retail: selling of goods to consumers
 retailer: company which sells goods
 retain: keep; maintain possession of; hire by payment of a fee; keep in mind; remember
-Sưu tầm & tổng hợp : Admin Group IELTS SHARE
- 
-143
 retire: move back and away from; stop performing one's work or withdraw from one's position
 retirement: period of your life after you have stopped work at a certain age
 retort: reply, especially to answer in a quick, caustic, or witty manner
@@ -4166,9 +3857,6 @@ reinforcement.
 rhythm: pattern; beat; recurring at regular intervals
 rib: one of the curved bones attached to the vertebral column and supporting the lateral walls of the
 thorax
-Sưu tầm & tổng hợp : Admin Group IELTS SHARE
- 
-144
 ribbon: fillet or narrow woven fabric, commonly of silk; narrow strip of fine material used for trimming
 riddle: pierce with numerous holes; perforate; permeate or spread throughout
 ridge: long, narrow upper section or crest; chain of hills or mountains
@@ -4197,9 +3885,6 @@ roast: cook with dry heat, usually in an oven; subject to laughter or ridicule
 robe: outer garment; dress of rich, flowing, and elegant style or make; dress of state, rank, office
 robust: vigorous; full of health and strength; vigorous
 rod: stick; a long thin implement made of metal or wood
-Sưu tầm & tổng hợp : Admin Group IELTS SHARE
- 
-145
 role: normal activity of a person in particular social setting; part played by a performer
 roll: a list of names
 rooster: adult male chicken
@@ -4226,10 +3911,10 @@ rule: governing direction for a specific purpose; regulation; systematic method
 rural: country; relating to rural areas
 rust: become destroyed by water, air, or an etching chemical such as an acid
 ruthless: pitiless; cruel; having no compassion or pity; me 
-Sưu tầm & tổng hợp : Admin Group IELTS SHARE
- 
-146
+
+
 S
+
 sack: bag made of paper or plastic for holding customer's purchases; enclosed space
 sacred: concerned with religion; worthy of respect or dedication
 sacrifice: offering of something to god; victim offered to god; surrender or loss of profit for higher
@@ -4255,9 +3940,6 @@ saucer: dish; small shallow dish having a slight circular depression in the cent
 savage: in a state of nature; wild; untamed; uncultivated; inhuman; brutal; not civilized; lacking polish;
 rude
 save: rescue; preserve; make unnecessary; set aside for future use
-Sưu tầm & tổng hợp : Admin Group IELTS SHARE
- 
-147
 savings: resources; money saved
 scale: climb up or over; alter according to a standard; estimate or measure; remove in layers
 scan: make a wide, sweeping search of; examine
@@ -4287,9 +3969,6 @@ scorch: burn superficially; parch, or shrivel, the surface of, by heat; affect p
 score: act of getting point in a game or sport; facts about an actual situation
 scorn: extreme and lofty contempt; haughty disregard
 scotch: put an abrupt end to; block to prevent rolling or slipping
-Sưu tầm & tổng hợp : Admin Group IELTS SHARE
- 
-148
 scout: find paths through unexplored territory
 scramble: unceremonious and disorganized struggle; rushing about hastily in an undignified way
 scrap: small piece or bit; fragment; fragment; leftover bits of food; remnant
@@ -4317,9 +3996,6 @@ security: freedom from risk or danger; safety
 seek: make an effort to; try to get; try to discover
 seemingly: apparently; supposedly
 segment: sector; portion; any of the parts into which something can be divided
-Sưu tầm & tổng hợp : Admin Group IELTS SHARE
- 
-149
 select: taken from a number by preference; picked out as more valuable or excellent than others; of
 special value or excellence
 selection: choice; variety; collection
@@ -4350,9 +4026,6 @@ shabby: torn or worn to rage; poor; mean; ragged
 shade: a slight amount or degree of difference; shadow; protective covering that protects something
 from direct sunlight
 shaft: axes; vertical passage into a mine; long narrow stem or body of a spear or arrow
-Sưu tầm & tổng hợp : Admin Group IELTS SHARE
- 
-150
 shallow: lacking physical depth; not deep or strong
 sham: pretend; put on false appearance of; feign
 sharpen: make pointed; make sharp or sharper
@@ -4381,9 +4054,6 @@ shortcut: a direct route; a route shorter than the usual one
 shot: photographic view or exposure
 shove: drive along by the direct and continuous application of strength; push along, aside, or away, in
 a careless manner
-Sưu tầm & tổng hợp : Admin Group IELTS SHARE
- 
-151
 shovel: tool consisting of a broad scoop, or hollow blade, with a handle, used for lifting and throwing
 loose substances
 shower: one who shows or exhibits; brief fall of precipitation, such as rain, hail; bath in which the
@@ -4417,9 +4087,6 @@ sigh: inhale a larger quantity of air than usual, and immediately expel it; make
 respiration, especially to express fatigue, exhaustion, grief, or sorrow
 sightseeing: act or pastime of visiting sights of interest
 sign: public display of message; visible mark or indication
-Sưu tầm & tổng hợp : Admin Group IELTS SHARE
- 
-152
 signal: a sign made for the purpose of giving notice to a person
 signature: name written in own handwriting
 significance: message that is intended or expressed or signified; meaning
@@ -4449,9 +4116,6 @@ skull: bony skeleton of the head of vertebrates
 skyrocket: increase rapidly; rise quickly; soar
 skyscraper: very tall building with many stories
 slack: area of still water; lack of tension; cord, rope, or cable that is hanging loosely; unused capacity; 
-Sưu tầm & tổng hợp : Admin Group IELTS SHARE
- 
-153
 casual trousers
 slam: shut with force and a loud noise; strike with force
 slander: defamation; false and malicious statement or report about someone
@@ -4480,9 +4144,6 @@ smog: air pollution by a mixture of smoke and fog
 smooth: free from obstructions; make surface shine
 smoothly: in a smooth manner; successfully; easily
 smuggle: import or export without paying customs duties
-Sưu tầm & tổng hợp : Admin Group IELTS SHARE
- 
-154
 snack: eat light informal meal; eat lightly
 snap: make a sharp sound; break suddenly as under tension; utter in angry or sharp tone
 snatch: grasp or seize hastily, eagerly, or suddenly
@@ -4513,9 +4174,6 @@ solitary: isolated; existing, living, or going without others; alone; unaccompan
 solitude: state of being alone; seclusion; lonely or secluded place
 solo: composed or performed by a single voice or instrument; unaccompanied; single
 solution: method for solving a problem; successful action of solving a problem
-Sưu tầm & tổng hợp : Admin Group IELTS SHARE
- 
-155
 solvent: able to pay all debts; capable of meeting financial obligations
 somehow: in one way or another; in some way not yet known; by some means
 somewhat: to some extent or degree; rather; a bit; slightly
@@ -4544,9 +4202,6 @@ sparrow: any of several small dull-colored singing birds feeding on seeds or ins
 spatial: relating to space; existing in or connected with space
 spear: a long, pointed weapon, used in war and hunting, by thrusting or throwing
 specialize: mention specially; particularize; apply to some specialty or limited object
-Sưu tầm & tổng hợp : Admin Group IELTS SHARE
- 
-156
 specialized: developed or designed for a special activity or function
 species: a specific kind of something
 specific: stated explicitly or in detail; definite
@@ -4576,9 +4231,6 @@ split: break apart; cut; devide
 spoil: go bad; rot; decay; become unfit for consumption or use
 spokesman: one who speaks for another
 sponge: soaking up; small absorbent contraceptive pad, used for bathing or cleaning
-Sưu tầm & tổng hợp : Admin Group IELTS SHARE
- 
-157
 sponsor: one who binds himself to answer for another, and is responsible for his default; godfather or
 godmother
 spontaneous: arising without external cause; growing without cultivation or human labor
@@ -4609,9 +4261,6 @@ stain: soiled or discolored; symbol of disgrace or infamy; natural spot of a col
 gound
 staircase: a way of access consisting of a set of steps
 stake: money risked on gamble; pole set up to mark something; right or legal share of something
-Sưu tầm & tổng hợp : Admin Group IELTS SHARE
- 
-158
 stale: having lost freshness; lacking originality or spontaneity
 stalk: go through an area in search of prey; pursue; walk with a stiff or angry gait; move threateningly
 stall: small area set off by walls for special use; booth
@@ -4642,9 +4291,6 @@ steak: slice of meat, typically beef, usually cut thick
 steamer: vessel propelled by steam; steamship or steamboat; road locomotive for use on common
 roads
 steep: soak; make thoroughly wet
-Sưu tầm & tổng hợp : Admin Group IELTS SHARE
- 
-159
 steer: drive; direct; guide by means of a device such as a rudder, paddle, or wheel
 stem: stop flow of a liquid; make headway against
 stereo: stereophonic sound-reproduction system
@@ -4674,9 +4320,6 @@ strain: group of organisms within a species; tension; pressure
 strait: difficult; stressful; narrow; not broad; tight; close; closely fitting
 strand: complex of fibers that twisted together to form a cable, rope, thread; land bordering a body of
 water; single filament
-Sưu tầm & tổng hợp : Admin Group IELTS SHARE
- 
-160
 strap: belt; band that goes over the shoulder and supports a garment or bag
 strategic: important or essential in relation to a plan of action; essential to the effective conduct of
 war; highly important to an intended objective
@@ -4706,9 +4349,6 @@ stumble: miss a step and fall or nearly fall; walk unsteadily
 sturdy: robust; strong; substantially made or constructed
 style: particular kind; a way of expressing something
 subdue: quiet or bring under control by physical force or persuasion; make less intense; tone down
-Sưu tầm & tổng hợp : Admin Group IELTS SHARE
- 
-161
 subject: something to be treated; course or area of study
 subjective: occurring or taking place in person's mind rather than external world; unreal
 submarine: submersible warship; move forward or under in a sliding motion; underwater
@@ -4738,9 +4378,6 @@ sufficient: adequate; enough; being as much as is needed
 suit: meet the requirements of; fit; please; satisfy
 suitable: appropriate to a purpose or an occasion
 suitcase: portable rectangular traveling bag for carrying clothes
-Sưu tầm & tổng hợp : Admin Group IELTS SHARE
- 
-162
 suite: apartment consisting of a series of connected rooms; a matching set of furniture
 sullen: lonely; solitary; desolate; gloomy; dismal; affected with ill humor
 sultry: burning hot; extremely and unpleasantly hot
@@ -4771,9 +4408,6 @@ supervisor: director; overseer; one who is in charge of a particular unit, as in
 system
 supplement: add as something seems insufficient; complement; extension; addition
 supplementary: added to complete or make up a deficiency
-Sưu tầm & tổng hợp : Admin Group IELTS SHARE
- 
-163
 suppose: imagine or admit to exist; assume to be true; believe; receive as true
 suppress: put down by force or authority; overwhelm; keep from being revealed
 supreme: most outstanding; highest; superior
@@ -4802,9 +4436,6 @@ swallow: take back what one has said ; enclose or envelop completely
 swamp: low land that is seasonally flooded; low land region saturated with water
 swarm: dense moving crowd; large group of honeybees
 sway: swing; move back and forth or sideways; win approval or support for; convince
-Sưu tầm & tổng hợp : Admin Group IELTS SHARE
- 
-164
 swear: affirm or utter a solemn declaration; make promise or resolve on oath
 sweater: knitted garment covering the upper part of the body
 sweep: movement in an arc; clean with a broom; wide scope; winning all
@@ -4828,10 +4459,10 @@ synthesis: combining parts into a coherent whole; putting of two or more things 
 synthetic: artificial; involving or of the nature of synthesis as opposed to analysis
 system: organized structure for arranging or classifying
 systematic: ordered; methodical; carried on using step-by-step procedures 
-Sưu tầm & tổng hợp : Admin Group IELTS SHARE
- 
-165
+
+
 T
+
 table: set resolution or proposal for future consideration; hold back to a later time
 tablet: a small flat compressed cake of some substance; a dose of medicine
 tack: small, short, sharp-pointed nail, usually having a broad, flat head
@@ -4857,9 +4488,6 @@ taste: have experience or enjoyment; take a sample of; have flavor
 taxation: laying a tax, or imposing taxes, as on the subjects of a state, by authority; raising of
 revenue
 team: a number of persons associated together in any work; a flock of wild ducks
-Sưu tầm & tổng hợp : Admin Group IELTS SHARE
- 
-166
 teapot: pot for brewing tea; usually has a spout and handle
 tear: separate or be separated by force; divide or disrupt; fill with tears or shed tears
 tease: tear into pieces; raise the fibers of
@@ -4889,9 +4517,6 @@ tense: stretch or force to the limit; tight
 tension: action of stretching something tight; anxiety; feelings of hostility
 tentative: hesitant; not fully worked out or developed; experimental; not definite or positive
 term: limited period of time; point in time at which something ends; termination; deadline
-Sưu tầm & tổng hợp : Admin Group IELTS SHARE
- 
-167
 terminal: causing or ending in or approaching death; station
 terminate: stop; bring to an end or halt
 termination: end of something in time or space; result or outcome; conclusion
@@ -4920,9 +4545,6 @@ thigh: part of the leg between the hip and the knee
 thirst: sensation of dryness in the throat
 thorn: something that causes irritation; a sharp-pointed tip on a stem or leaf
 thorough: accurate or careful; complete
-Sưu tầm & tổng hợp : Admin Group IELTS SHARE
- 
-168
 thoughtful: considerate; having intellectual depth; giving close attention
 thrash: beat severely; discuss or examine repeatedly; use a machine or flail to separate grain or
 seeds from straw
@@ -4953,9 +4575,6 @@ timely: being or occurring in good time; sufficiently early; seasonable
 timid: shy; craven; lacking self-confidence; shy
 tip: piece or attachment; end of a pointed or projecting object; a V shape ; indication of potential
 opportunity
-Sưu tầm & tổng hợp : Admin Group IELTS SHARE
- 
-169
 tissue: groups of cells that make particular parts of the body; soft thin paper
 title: right or claim to possession; mark of rank; name of a book or film
 toast: dry and brown by heat of fire; warm thoroughly; drink to the health or in honor
@@ -4985,9 +4604,6 @@ slender structure used for observation, signaling, or pumping
 trace: follow, discover; make a mark or lines on a surface
 track: road or path affording passage; line or route along which something moves
 tractor: a truck that has a cab but no body
-Sưu tầm & tổng hợp : Admin Group IELTS SHARE
- 
-170
 tradition: thought or behavior followed from generation to generation; heritage
 tragedy: disaster; event resulting in great loss and misfortune
 trail: path or track roughly through wild or hilly country; overland route
@@ -5016,9 +4632,6 @@ treason: disloyalty; betrayal of trust or confidence
 treatment: handling; care that are intended to relieve illness or injury
 treaty: act of treating for the adjustment of differences; negotiation
 tremble: shake involuntarily, as with fear, cold, or weakness; quake; quiver; shiver; shudder
-Sưu tầm & tổng hợp : Admin Group IELTS SHARE
- 
-171
 tremendous: huge; capable of making one tremble; terrible
 trench: canal; deep furrow or ditch; long, steep-sided valley on the ocean floor
 trend: popular taste; general direction in which something tends to move
@@ -5049,9 +4662,6 @@ tug: pull or draw with great effort; draw along with continued exertion; haul al
 tuition: teaching pupils individually; fee for instruction, especially at a formal institution of learning
 tumble: fall down, as if collapsing
 tumult: noise, as made by a crowd; riot or uprising
-Sưu tầm & tổng hợp : Admin Group IELTS SHARE
- 
-172
 tunnel: passageway through or under something, usually underground
 turbulent: characterized by unrest or disorder
 turnover: act or result of turning over; upset; abrupt change; number of workers hired by an
@@ -5066,11 +4676,11 @@ typhoon: tropical cyclone occurring in the western Pacific; violent whirlwind
 typical: conforming to a type; representative
 tyranny: oppression; cruel government; office or authority of an absolute ruler; absolute power
 tyrant: absolute ruler; sovereign unrestrained by law or constitution
-tyre: tire; covering for a wheel, usually made of rubber reinforced with cords of nylon 
-Sưu tầm & tổng hợp : Admin Group IELTS SHARE
- 
-173
+tyre: tire; covering for a wheel, usually made of rubber reinforced with cords of nylon  
+
+
 U
+
 ugly: offensive to the sight; contrary to beauty; disagreeable aspect; unsightly
 ultimate: final; being the last or concluding; fundamental; elemental; extreme
 ultimately: as final consequence; at last; in the end
@@ -5095,9 +4705,6 @@ undo: release; cause the ruin or downfall of; cancel or reverse an action
 undoubtedly: unquestionably; without doubt; certainly
 undue: not due; not yet owing; not just, proper, or legal; ; excessive
 uneasy: not easy; difficult; restless; disturbed by pain, anxiety
-Sưu tầm & tổng hợp : Admin Group IELTS SHARE
- 
-174
 unfair: unjust; contrary to laws or conventions, especially in commerce
 unfold: extend or stretch out to a greater or the full length; happen
 unfortunately: unluckily; by bad luck
@@ -5126,14 +4733,11 @@ utilization: state of having been made use of; the act of using
 utilize: put into service; take advantage of
 utmost: farthest point or extremity; most distant; extreme
 utter: speak; express; send forth with the voice
-Sưu tầm & tổng hợp : Admin Group IELTS SHARE
- 
-175
 utterance: vocal expression; power of speaking; last or utmost extremity 
-Sưu tầm & tổng hợp : Admin Group IELTS SHARE
  
-176
+
 V
+
 vacancy: absence; emptiness
 vacant: void of thought or knowledge; without an occupant or incumbent
 vacation: leisure time away from work; act of making something legally void
@@ -5157,9 +4761,6 @@ variation: act of changing or altering
 varied: differed; diversified; various
 variety: diversity; quality or condition of being various or varied
 various: different; diverse; several; manifold; changeable; uncertain
-Sưu tầm & tổng hợp : Admin Group IELTS SHARE
- 
-177
 varnish: deceptively attractive external appearance; paint to coat a surface with a hard, glossy,
 transparent film
 vary: change aspect of; alter in form, appearance, substance, position; make different by a partial
@@ -5189,9 +4790,6 @@ vex: annoy; disturb, especially by minor irritations; be a mystery or bewilderin
 via: by the way of
 vibrate: shake, quiver; move or swing from side to side regularly
 vibration: act of vibrating; a shaky motion 
-Sưu tầm & tổng hợp : Admin Group IELTS SHARE
- 
-178
 vice: moral fault or failing; evil, degrading, or immoral practice or habit; physical defect or weakness
 vicinity: state of being near in space or relationship; proximity
 vicious: by vice or defects; defective; imperfect; having the nature of vice; evil, immoral, or depraved
@@ -5221,9 +4819,6 @@ vocation: career; profession
 vogue: popular fashion; current state or style of general acceptance and use
 void: emptiness; containing nothing; clear or empty a place
 volcano: fissure in the earth's crust through which molten lava and gases erupt
-Sưu tầm & tổng hợp : Admin Group IELTS SHARE
- 
-179
 volley: flight of missiles; round of gunshots; tennis return made by hitting the ball before it bounces
 voltage: difference in electrical charge between two points
 volume: capacity; amount of space occupied by an object
@@ -5239,10 +4834,10 @@ voyage: long journey to a foreign or distant place, especially by sea; aviation
 vulgar: common; low; coarse; belonging or relating to the common people, as distinguished from the
 cultivated or educated; lacking cultivation or refinement
 vulnerable: susceptible to wounds; capable of being wounded or hurt
-Sưu tầm & tổng hợp : Admin Group IELTS SHARE
- 
-180
+
+
 W
+
 wade: paddle; walk through relatively shallow water
 wag: move one way and the other with quick turns; shake to and fro; move in vibrating; cause to
 vibrate
@@ -5268,9 +4863,6 @@ wax: increase gradually in size, number, strength, or intensity; show a progress
 area
 weapon: arms
 weary: tired; exhausted; physically or mentally fatigued
-Sưu tầm & tổng hợp : Admin Group IELTS SHARE
- 
-181
 weather: endure the effects of weather or other forces; come through safely; survive
 weave: pattern or structure by weaving ; knit; interlace
 weaver: craftsman who weaves cloth
@@ -5302,9 +4894,6 @@ wield: handle (a weapon or tool, for example) with skill and ease. exercise effe
 power over; rule; manage
 wilderness: a tract of land, or a region, uncultivated and uninhabited by human beings, whether a
 forest or a wide, barren plain; wild or desert
-Sưu tầm & tổng hợp : Admin Group IELTS SHARE
- 
-182
 willow: trees having usually narrow leaves
 winding: twisting or turning; spiral
 wisdom: quality of being wise; knowledge ; results of wise judgments
@@ -5333,10 +4922,10 @@ worthless
 wring: twist; squeeze; compress, especially so as to extract liquid
 wrinkle: a minor difficulty; a slight depression in the smoothness of a surface
 wrist: joint between the hand and the forearm
-Sưu tầm & tổng hợp : Admin Group IELTS SHARE
- 
-183
+
+
 Y
+
 yacht: light ship used for private pleasure trips
 yard: rod; stick; branch; long piece of timber; measure of length, equaling three feet
 yawn: open the mouth wide with a deep inhalation, usually involuntarily from drowsiness, fatigue, or
@@ -5347,9 +4936,10 @@ yield: give in; surrender; give forth a natural product; be productive
 yoke: join together, unite; harness a draft animal to; join securely; force into heavy labor
 yolk: nutritive material; greasy substance found in unprocessed sheep's wool; yellow part of an egg
 Sưu tầm & tổng hợp : Admin Group IELTS SHARE
- 
-184
+
+
 Z
+
 zeal: intense interest; eagerness to accomplish some object
 zealous: enthusiastic; filled with or motivated by zeal
 zone: region; portion of the surface of a sphere;
