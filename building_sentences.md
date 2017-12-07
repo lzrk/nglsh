@@ -2,6 +2,10 @@
 - (I, you, we, they) do
 - (He, She, It) does
 
+# WAS / WERE
+- was - ед. число
+- were - мн. число (в т.ч. you всегда)
+
 # Simple
 
 ## Present Simple
@@ -78,8 +82,6 @@
 
 ## Future Simple
 
-### (all) will + V
-
 | +/-/?|     |
 | ---  | --- |
 |+     | (all) + will + V   |
@@ -94,58 +96,62 @@
 
 
 # Progressive
-**to be**
 
 ## Present Progressive
 
-### (I am) + V**ing**
+| +/-/?|     |
+| ---  | --- |
+|+     | I am + Ving                  |
+|+     | (He, she, it) is + Ving      |
+|+     | (You, we, they) are + Ving   |
+|?     | inversion                    |
+|-     | (am, is, are) + not + Ving   |
+
 
 ```
-I am writing
-```
++ I am writing
+? Am I writing?
+- I am not writing
 
-### (You, we, they) are + V**ing**
-
-```
-You are sitting
-We are smiling at each other
-```
-
-### (He, she, it) is + V**ing**
-
-```
-John is having dinner
-She is singing
++ You are sitting
+? Are you sitting?
+- You are not sitting
 ```
 
 ## Past Progressive
 
-### (I) was + V**ing**
+| +/-/?|     |
+| ---  | --- |
+| +    | (was, were) Ving     |
+| ?    | inversion            |
+| -    | (was, were) not Ving |
 
 ```
-I was strolling
-```
++ I was strolling
+? Was I strolling?
+- I was not strolling
 
-### (You, we, they) were + V**ing**
++ You were telling lies
+? Were you telling lies?
+- You were not telling lies
 
-```
-You were telling lies
-We were telling the truth
-```
-
-### (He, she, it) was + V**ing**
-
-```
-The sun was shining
-She was singing
++ She was singing
+? Was she singing
+- She was not singing
 ```
 
 ## Future Progressive
 
-### (all) will be + V**ing**
+| +/-/?|     |
+| ---  | --- |
+| +    | will + be + Ving     |
+| ?    | inversion            |
+| -    | won't (would not) be Ving |
 
 ```
-I will be working
++ I will be working
+? Will I be working?
+- I won't be working
 ```
 
 
