@@ -35,8 +35,8 @@
 - People do not believe strangers
 
 + She sings in a bar
-? Does she sings in a bar?
-- She does not sings in a bar
+? Does she sing in a bar?
+- She does not sing in a bar
 
 + It is true
 ? Is it true?
