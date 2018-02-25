@@ -230,6 +230,8 @@ TODO: shall/will
 
 ## Present Perfect Progressive
 
+[http://engblog.ru/present-perfect-continuous](http://engblog.ru/present-perfect-continuous)
+
 | +/-/?|     |
 | ---  | --- |
 | +    | (have, has) + been + Ving       |
@@ -253,6 +255,8 @@ TODO: shall/will
 
 ## Past Perfect Progressive
 
+[http://engblog.ru/past-perfect-continuous](http://engblog.ru/past-perfect-continuous)
+
 | +/-/?|     |
 | ---  | --- |
 | +    | had + been + Ving   |
@@ -266,6 +270,8 @@ TODO: shall/will
 ```
 
 ## Future Perfect Progressive
+
+[http://engblog.ru/future-perfect-continuous](http://engblog.ru/future-perfect-continuous)
 
 | +/-/?|     |
 | ---  | --- |
